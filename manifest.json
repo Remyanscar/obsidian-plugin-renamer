@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-plugin-renamer",
+  "name": "Plugin Renamer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Assign custom names to your community plugins to visually group and re-sort them in the settings sidebar.",
+  "author": "Remyanscar",
+  "isDesktopOnly": false
+}
